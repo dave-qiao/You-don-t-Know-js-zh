@@ -1,1 +1,8 @@
+# mac
+.DS_Store
 
+# package
+node_modules/
+
+# debug log
+npm-debug.log
